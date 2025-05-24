@@ -101,17 +101,9 @@ Hello, world!
 Ten program i język został zainspirowany ptakiem **Scolopax**, który wydaje dźwięki „peep” i „meep”, tak samo jak instrukcje w języku Meep.
 To symbol prostoty i naturalnej komunikacji, którą przeniosłem na programowanie.
 
-![Ptak Scolopax (American Woodcock)](meep.jpg)
+![meep](meep.jpg)
 
 ---
 
 ## 👤 Autor
-
 **KamilMalicki**
-Prosty, szybki interpreter języka Meep, który pozwala poczuć się jak ptak mówiący „peep” i „meep”.
-
-```
-
-Jeśli chcesz, możesz wkleić ten tekst do pliku `README.md` i będzie gotowy.  
-Daj znać, jeśli chcesz go przerobić.
-```
