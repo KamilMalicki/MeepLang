@@ -101,7 +101,7 @@ Hello, world!
 Ten program i język został zainspirowany ptakiem **Scolopax**, który wydaje dźwięki „peep” i „meep”, tak samo jak instrukcje w języku Meep.
 To symbol prostoty i naturalnej komunikacji, którą przeniosłem na programowanie.
 
-![Ptak Scolopax (American Woodcock)](https://animalia.bio/wp-content/uploads/american-woodcock.jpg)
+![Ptak Scolopax (American Woodcock)](meep.jpg)
 
 ---
 
